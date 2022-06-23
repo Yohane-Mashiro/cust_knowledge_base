@@ -4,17 +4,15 @@
 
 ## 🌍 访问方式
 Github可能存在`访问慢`的问题，还可以使用以下方式加速访问：
+- cust.wiki  
+假设需要访问文件`通用/本科毕业论文规范化要求.pdf`，可以使用`https://kb.cust.wiki/通用/本科毕业论文规范化要求.pdf`来加速访问。
+
 - Github加速  
 在搜索引擎搜索Github加速即可。
 
 - [Logit](https://git.lolli.tech/lollipopkit/cust_knowledge_base)  
 但因为Logit使用的自购非大陆服务器，可能存在`带宽不足、访问慢`的问题。
 ![ping](/.img/ping.png)
-
-所以，除了使用本站外，还可以使用GitHub访问本站：
-- [Github](https://github.com/CustedNG/cust_knowledge_base)  
-如果无法访问，请使用Github（会镜像同步本站资源）。
-如果无法访问Github，请使用Github加速服务。
 
 如果不习惯使用Git，可以使用文件管理器访问：
 - [文件浏览器](https://file.lolli.tech/files/)，账户密码都是`cust`  
